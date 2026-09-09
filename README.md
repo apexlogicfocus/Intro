@@ -1,3 +1,2 @@
 # Intro
-Hello world,
-Thanks!!!
+Hello world!
